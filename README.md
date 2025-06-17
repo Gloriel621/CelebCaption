@@ -19,11 +19,8 @@ These matched caption sets let researchers isolate:
 
 ## Download
 
-The full dataset (~3.83 GB) is on Google Drive:
+[Download CelebCaption&nbsp;(~3.83 GB)](https://drive.google.com/file/d/1HiJzilSHOvapHs7EV8J5-191PEn7OwkN/view?usp=sharing)
 
-```
-https://drive.google.com/file/d/1HiJzilSHOvapHs7EV8J5-191PEn7OwkN/view?usp=sharing
-```
 
 ---
 
