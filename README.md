@@ -59,7 +59,7 @@ Each line is a single JSON object that links one image to its four caption varia
 * **Caption corpus:** 100 000 sentences, 13 708 unique tokens  
 * **Average image resolution:** ~1.22 MP (median 1.07 MP)
 
-* <details>
+<details>
 <summary>Celebrity list (150)</summary>
 
 - Abel_Tesfaye  
