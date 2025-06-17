@@ -19,7 +19,7 @@ These matched caption sets let researchers isolate:
 
 ## Download
 
-[Download CelebCaption&nbsp;(~3.83 GB)](https://drive.google.com/file/d/1HiJzilSHOvapHs7EV8J5-191PEn7OwkN/view?usp=sharing)
+[Download Link (Google Drive) &nbsp;(~3.83 GB)](https://drive.google.com/file/d/1HiJzilSHOvapHs7EV8J5-191PEn7OwkN/view?usp=sharing)
 
 
 ---
