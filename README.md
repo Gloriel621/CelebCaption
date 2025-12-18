@@ -4,7 +4,7 @@
 Hakjun Moon, Simon S. Woo  
 *Proceedings of the 19th ACM International Conference on Web Search and Data Mining (WSDM 2026)*
 
-📄 **Paper:** https://dl.acm.org/doi/10.1145/3773966.3779359
+📄 **Paper:** https://dl.acm.org/doi/10.1145/3773966.3779359  (currently unavailable until proceeding)
 
 
 # CelebCaption
