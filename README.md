@@ -1,7 +1,5 @@
 ## Paper
 
-CelebCaption was introduced in the following paper:
-
 **CelebCaption: A Benchmark Dataset for Identity-Sensitive Unlearning in Image Captioning**  
 Hakjun Moon, Simon S. Woo  
 *Proceedings of the 19th ACM International Conference on Web Search and Data Mining (WSDM 2026)*
