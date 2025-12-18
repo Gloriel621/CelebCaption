@@ -1,3 +1,14 @@
+## Paper
+
+CelebCaption was introduced in the following paper:
+
+**CelebCaption: A Benchmark Dataset for Identity-Sensitive Unlearning in Image Captioning**  
+Hakjun Moon, Simon S. Woo  
+*Proceedings of the 19th ACM International Conference on Web Search and Data Mining (WSDM 2026)*
+
+📄 **Paper:** https://dl.acm.org/doi/10.1145/3773966.3779359
+
+
 # CelebCaption
 
 **CelebCaption** is a benchmark dataset for **identity-sensitive unlearning in image captioning**.  
@@ -231,3 +242,16 @@ Each line is a single JSON object that links one image to its four caption varia
 
 </details>
 
+
+## Citation
+
+If you use CelebCaption in your research, please cite:
+
+```bibtex
+@inproceedings{moon2026celebcaption,
+  title     = {CelebCaption: A Benchmark Dataset for Identity-Sensitive Unlearning in Image Captioning},
+  author    = {Moon, Hakjun and Woo, Simon S.},
+  booktitle = {Proceedings of the 19th ACM International Conference on Web Search and Data Mining (WSDM)},
+  year      = {2026},
+  doi       = {10.1145/3773966.3779359}
+}
